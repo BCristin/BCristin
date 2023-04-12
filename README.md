@@ -6,18 +6,21 @@ dar muncesc zilnic că sa devin cel mai bun.
 # Ce am făcut pana acum:
 Dacă ar fi să începem de la început, primele proiecte ale mele sunt din timpul studenției, fiindcă am terminat [FIESC Calculatoare](https://fiesc.usv.ro/), dar asta a fost în 2015-2019, după care am făcut masterul pe un alt domeniu [FEAA Management și Administrarea Afacerilor](https://feaa.usv.ro/) cu durata de 2 ani.<br>
 Apoi un an l-am lucrat la un job care nu avea treaba cu facultățile pe care le-am făcut si am decis sa mă întorc în domeniul IT, **fiindcă aici am reușit sa obțin cea mai mare plăcere din ceea ce fac.** <br>
-Acești 4 ani în care nu am interacționat cu programarea m-a făcut să mă simt insuficient de pregătit pentru angajarea, tocmai de asta proiectele care le-am făcut in anii de studenții nu vor apărea aici. _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foarte mult_.  
+Acești 4 ani în care nu am interacționat cu programarea m-a făcut să mă simt insuficient de pregătit pentru angajarea, tocmai de asta proiectele care le-am făcut in anii de studenții nu vor apărea aici. 
+
+_Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foarte mult_.  
 <br>
 
 1. Astfel primul curs a fost [WEB-разработчик](https://www.udemy.com/course/webdeveloper/) aici ne-am readus aminte cum se scrie codul în HTML și CSS.<br>
     - am făcut următorul [Proiect](https://bcristin.github.io/pulse/src/)<br>
     - Prima încercare de a realiza propriul meu proiect se poate vedea [aici](https://bcristin.github.io/first-my-project/) Design-ul este luat de pe [FIGMA](https://www.figma.com/file/NlH3naDNbp8x1rGeS27GLy/Freelancer-portfolio?t=mMMPO9gbuVeqJevz-6). Aici am învățat sa folosesc Slider-ul [Swiper](https://swiperjs.com/) și am încercat PHPMailer ca sa pot trimite mesaje pe mail direct din pagina web, dar cu părere de rău github pages nu funcționează cu php si nu am mai reușit sa verific daca într-adevăr funcționează.  <br>
 2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
-3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/) unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
+3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)([RO] Cursul complet JavaScript + React - De la zero la rezultat) unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
     - aici am făcut următorul [proiect](https://bcristin.github.io/learnJS_food/)
     - [aici](https://bcristin.github.io/Customizator/dist/) am învățat sa folosesc localstore 
     - apoi am început sa învăț React, primul proiect fiind [acesta](https://first-my-project-qe53.vercel.app/)
     - [al doilea pe React](https://marvel-mcc6.vercel.app/) unde am exersat cu react router 
+    - [Redux, Redux Toolkit, RTK Query](https://homework-redux.vercel.app/)
 4.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/)
     - [primul](https://bcristin.github.io/learnJS_Picture/dist/)
     - [al doilea](https://bcristin.github.io/learnJS_Window/dist/)

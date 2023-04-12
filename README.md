@@ -11,21 +11,21 @@ Acești 4 ani în care nu am interacționat cu programarea m-a făcut să mă si
 _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foarte mult_.  
 <br>
 
-1. Astfel primul curs a fost [WEB-разработчик](https://www.udemy.com/course/webdeveloper/)=> {name: "Dezvoltator WEB", language:"RO"} aici ne-am readus aminte cum se scrie codul în HTML și CSS.<br>
+1. Astfel primul curs a fost [WEB-разработчик](https://www.udemy.com/course/webdeveloper/)*{name: "Dezvoltator WEB", language:"RO"}* aici ne-am readus aminte cum se scrie codul în HTML și CSS.<br>
     - am făcut următorul [Proiect](https://bcristin.github.io/pulse/src/)<br>
     - Prima încercare de a realiza propriul meu proiect se poate vedea [aici](https://bcristin.github.io/first-my-project/) Design-ul este luat de pe [FIGMA](https://www.figma.com/file/NlH3naDNbp8x1rGeS27GLy/Freelancer-portfolio?t=mMMPO9gbuVeqJevz-6). Aici am învățat sa folosesc Slider-ul [Swiper](https://swiperjs.com/) și am încercat PHPMailer ca sa pot trimite mesaje pe mail direct din pagina web, dar cu părere de rău github pages nu funcționează cu php si nu am mai reușit sa verific daca într-adevăr funcționează.  <br>
 2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
-3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)=> {name: "Cursul complet JavaScript + React - De la zero la rezultat", language:"RO"} unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
+3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)*{name: "Cursul complet JavaScript + React - De la zero la rezultat", language:"RO"}* unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
     - aici am făcut următorul [proiect](https://bcristin.github.io/learnJS_food/)
     - [aici](https://bcristin.github.io/Customizator/dist/) am învățat sa folosesc localstore 
     - apoi am început sa învăț React, primul proiect fiind [acesta](https://first-my-project-qe53.vercel.app/)
     - [al doilea pe React](https://marvel-mcc6.vercel.app/) unde am exersat cu react router 
     - [Redux, Redux Toolkit, RTK Query](https://homework-redux.vercel.app/)
-4.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/) => {name: "Practica JavaScript (Nivel avansat)", language:"RO"}
+4.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/) *{name: "Practica JavaScript (Nivel avansat)", language:"RO"}*
     - [primul](https://bcristin.github.io/learnJS_Picture/dist/)
     - [al doilea](https://bcristin.github.io/learnJS_Window/dist/)
 5. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
-    - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) => {name: "Modernul React - De la zero la profesional", language:"RO"}
+    - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/)*{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
     - si altele.

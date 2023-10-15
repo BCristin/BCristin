@@ -17,27 +17,27 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut<br>[first] [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
  [second] [aceasta pagina](https://bcristin.github.io/burgers/),  [certificat 2](https://itlogia.ru/upload/images/intensive-participant-certificate/1684217361NpJmb.jpeg)<br>
 
-4.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/) *{name: "Curs complet JavaScript + React - De la zero la rezultat", language:"RO"}* unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
+3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/) *{name: "Curs complet JavaScript + React - De la zero la rezultat", language:"RO"}* unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
     - aici am făcut următorul [proiect](https://bcristin.github.io/learnJS_food/)
     - [aici](https://bcristin.github.io/Customizator/dist/) am învățat sa folosesc localstore 
     - apoi am început sa învăț React, primul proiect fiind [acesta](https://first-my-project-qe53.vercel.app/)
     - [al doilea pe React](https://marvel-mcc6.vercel.app/) unde am exersat cu react router 
     - [Redux, Redux Toolkit, RTK Query](https://homework-redux.vercel.app/)
-5.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/) *{name: "Practica JavaScript (Nivel avansat)", language:"RO"}*
+4.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/) *{name: "Practica JavaScript (Nivel avansat)", language:"RO"}*
     - [primul](https://bcristin.github.io/learnJS_Picture/dist/)
     - [al doilea](https://bcristin.github.io/learnJS_Window/dist/)
-6. Am început studierea a TypeScript [Полный курс по современному TypeScript](https://www.udemy.com/course/modern_typescript/)
-7. Ca prima practică legată de TS făcut [React Pizza v2](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+5. Am început studierea a TypeScript [Полный курс по современному TypeScript](https://www.udemy.com/course/modern_typescript/)
+6. Ca prima practică legată de TS făcut [React Pizza v2](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
     - [aici e rezultatul](https://react-pizza-archankov.vercel.app/)
-8. Am urmat cu [Основы React, React Router и Redux Toolkit](https://purpleschool.ru/course/react-redux) mai mult pentru partea de TS
+7. Am urmat cu [Основы React, React Router и Redux Toolkit](https://purpleschool.ru/course/react-redux) mai mult pentru partea de TS
     - [Prima parte](https://github.com/BCristin/journal-purple-school) (GitHub)
-    - [A 2-a parte](https://github.com/BCristin/pizza-app)) (GitHub)
-9. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
+    - [A 2-a parte](https://github.com/BCristin/pizza-app) (GitHub)
+8. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
     - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) *{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
     - si altele.
-10.de asemenea am vizionat sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
+9. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
 
 Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/) (momentan renuntat, dar revin la el)
 

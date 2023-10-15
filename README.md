@@ -26,14 +26,20 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 5.  Sub continuarea cursului anterior pentru mai multa practica am făcut primele 2 proiecte din  [Практический JavaScript (Продвинутый уровень)](https://www.udemy.com/course/javascript_practice/) *{name: "Practica JavaScript (Nivel avansat)", language:"RO"}*
     - [primul](https://bcristin.github.io/learnJS_Picture/dist/)
     - [al doilea](https://bcristin.github.io/learnJS_Window/dist/)
-6. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
+6. Am început studierea a TypeScript [Полный курс по современному TypeScript](https://www.udemy.com/course/modern_typescript/)
+7. Ca prima practică legată de TS făcut [React Pizza v2](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+    - [aici e rezultatul](https://react-pizza-archankov.vercel.app/)
+8. Am urmat cu [Основы React, React Router и Redux Toolkit](https://purpleschool.ru/course/react-redux) mai mult pentru partea de TS
+    - [Prima parte](https://github.com/BCristin/journal-purple-school) (GitHub)
+    - [A 2-a parte](https://github.com/BCristin/pizza-app)) (GitHub)
+9. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
     - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) *{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
     - si altele.
-7. de asemenea am vizionat sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
+10.de asemenea am vizionat sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
 
-Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/)
+Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/) (momentan renuntat, dar revin la el)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tianncristian/) 

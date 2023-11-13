@@ -13,7 +13,7 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 
 1. Astfel primul curs a fost [WEB-разработчик](https://www.udemy.com/course/webdeveloper/) *{name: "Dezvoltator WEB", language:"RO"}* aici ne-am readus aminte cum se scrie codul în HTML și CSS.<br>
     - am făcut următorul [Proiect](https://bcristin.github.io/pulse/src/)<br>
-    - Prima încercare de a realiza propriul meu proiect se poate vedea [aici](https://bcristin.github.io/first-my-project/) Design-ul este luat de pe [FIGMA](https://www.figma.com/file/NlH3naDNbp8x1rGeS27GLy/Freelancer-portfolio?t=mMMPO9gbuVeqJevz-6). Aici am învățat sa folosesc Slider-ul [Swiper](https://swiperjs.com/) și am încercat PHPMailer ca sa pot trimite mesaje pe mail direct din pagina web, dar cu părere de rău github pages nu funcționează cu php si nu am mai reușit sa verific daca într-adevăr funcționează.  <br>
+    - Prima încercare de a realiza propriul meu proiect se poate vedea [aici](https://bcristin.github.io/first-my-project/) Design-ul este luat de pe [FIGMA](https://www.figma.com/file/NlH3naDNbp8x1rGeS27GLy/Freelancer-portfolio?t=mMMPO9gbuVeqJevz-6). Aici am învățat sa folosesc Slider-ul [Swiper](https://swiperjs.com/)   <br>
 2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut<br>[first] [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
  [second] [aceasta pagina](https://bcristin.github.io/burgers/),  [certificat 2](https://itlogia.ru/upload/images/intensive-participant-certificate/1684217361NpJmb.jpeg)<br>
 
@@ -32,12 +32,17 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 7. Am urmat cu [Основы React, React Router и Redux Toolkit](https://purpleschool.ru/course/react-redux) mai mult pentru partea de TS
     - [Prima parte](https://github.com/BCristin/journal-purple-school) (GitHub)
     - [A 2-a parte](https://github.com/BCristin/pizza-app) (GitHub)
-8. Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
+8. Am facut si [Курс по верстке от 0 до 1](https://from0to1.com.ua/)
+    - [aici e rezultatul marcho, magazin](https://bcristin.github.io/marcho/dist/)
+    - [aici e rezultatul wawe](https://bcristin.github.io/wawe/)
+    - [aici e rezultatul o-marketing](https://bcristin.github.io/o-marketing/)
+      
+10.  Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
     - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) *{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
     - si altele.
-9. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
+11. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
 
 Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/) (momentan renuntat, dar revin la el)
 

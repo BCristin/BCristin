@@ -36,16 +36,14 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 8. Am facut si [Курс по верстке от 0 до 1](https://from0to1.com.ua/)
     - [aici e rezultatul marcho, magazin](https://bcristin.github.io/marcho/dist/)
     - [aici e rezultatul wawe](https://bcristin.github.io/wawe/)
-    - [aici e rezultatul o-marketing](https://bcristin.github.io/o-marketing/)
-      
-10.  Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
+    - [aici e rezultatul o-marketing](https://bcristin.github.io/o-marketing/)   
+9.  Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un impact importat asupra mea și de aceia nu voi spune mult despre ele.
     - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) *{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
     - [Верстка и создание веб сайтов 2022 - с нуля до результата !](https://www.udemy.com/course/dmitrii-fokeev-web-dev-essential/)
-    - 
     - si altele.
-12. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
+11. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
 
 Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/) (momentan renuntat, dar revin la el)
 

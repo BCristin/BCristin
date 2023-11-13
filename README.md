@@ -14,8 +14,9 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
 1. Astfel primul curs a fost [WEB-разработчик](https://www.udemy.com/course/webdeveloper/) *{name: "Dezvoltator WEB", language:"RO"}* aici ne-am readus aminte cum se scrie codul în HTML și CSS.<br>
     - am făcut următorul [Proiect](https://bcristin.github.io/pulse/src/)<br>
     - Prima încercare de a realiza propriul meu proiect se poate vedea [aici](https://bcristin.github.io/first-my-project/) Design-ul este luat de pe [FIGMA](https://www.figma.com/file/NlH3naDNbp8x1rGeS27GLy/Freelancer-portfolio?t=mMMPO9gbuVeqJevz-6). Aici am învățat sa folosesc Slider-ul [Swiper](https://swiperjs.com/)   <br>
-2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut<br>[first] [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
- [second] [aceasta pagina](https://bcristin.github.io/burgers/),  [certificat 2](https://itlogia.ru/upload/images/intensive-participant-certificate/1684217361NpJmb.jpeg)<br>
+2. La un moment dat am făcut un intensiv gratuit pentru un curs demo pus la dispozitie de [Айтилогия](https://itlogia.ru/) unde am făcut o mica cunoștința cu Angular. Și după cele 7 zile am făcut<br>
+    - [first] [aceasta pagina](https://bcristin.github.io/cars-hw/), aici am primit si un [certificat](https://itlogia.ru/upload/images/intensive-participant-certificate/1670822876Q7AEr.jpeg)<br>
+    - [second] [aceasta pagina](https://bcristin.github.io/burgers/),  [certificat 2](https://itlogia.ru/upload/images/intensive-participant-certificate/1684217361NpJmb.jpeg)<br>
 
 3.  Un al doilea curs a fost [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/) *{name: "Curs complet JavaScript + React - De la zero la rezultat", language:"RO"}* unde am învățat JavaScript si React (hooks, redux, redux-toolkit etc.). In acest capitol nu am mai exersat pe HTML si CSS, doar JS și React. [Aici e certificatul](https://www.udemy.com/certificate/UC-10f17cb5-cb9a-40b8-9675-6e4241a07f2b/)
     - aici am făcut următorul [proiect](https://bcristin.github.io/learnJS_food/)
@@ -41,8 +42,10 @@ _Pentru a mă pregăti, am început să urmez careva cursuri și să exersez foa
     - [Современный React - с Нуля до Профессионала](https://www.udemy.com/course/react-np/) *{name: "Modernul React - De la zero la profesional", language:"RO"}*
     - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
+    - [Верстка и создание веб сайтов 2022 - с нуля до результата !](https://www.udemy.com/course/dmitrii-fokeev-web-dev-essential/)
+    - 
     - si altele.
-11. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
+12. de asemenea am vizionat mai multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
 
 Pe parcursul cursurilor am început sa fac o aplicații care personal mie mi-ar fi utila, la ea mai am de lucrat mult dar totuși o las aici ca un [exemplu de proiect](https://my-coin-keeper.vercel.app/) (momentan renuntat, dar revin la el)
 

@@ -25,8 +25,7 @@ _Pentru a-mi actualiza cunoștințele la cerințele pieții am început să fac 
 | [Основы React, React Router и Redux Toolkit](https://purpleschool.ru/course/react-redux) | - React<br>- Redux-toolkit<br>-  Router v6<br>-  TypeScript  |   - [Prima parte](https://github.com/BCristin/journal-purple-school) (GitHub)<br>   - [A 2-a parte](https://github.com/BCristin/pizza-app) (GitHub) | 
 |[Курс по верстке от 0 до 1](https://from0to1.com.ua/)| aceleasi ca la [WEB-разработчик](https://www.udemy.com/course/webdeveloper/) |   - [aici e rezultatul marcho, magazin](https://bcristin.github.io/marcho/dist/)<br>   - [aici e rezultatul wawe](https://bcristin.github.io/wawe/)<br>   - [aici e rezultatul o-marketing](https://bcristin.github.io/o-marketing/) | 
 |[Создаем Музыкальное Приложение](https://www.youtube.com/watch?v=ILkLgKGgels) |  |- [aici e aplicatia](https://main--fancy-cannoli-530781.netlify.app/)| 
-| **Titlu curs 4** | 60% | **Tehnologie 4** | 
-| **Titlu curs 4** | 60% | **Tehnologie 4** | 
+
 
 
 

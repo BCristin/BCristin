@@ -13,7 +13,7 @@ Acești câțva ani care nu am interacționat cu programarea m-a făcut să mă 
 _Pentru a-mi actualiza cunoștințele la cerințele pieții am început să fac mai multe cursuri și să exersez foarte mult_.  
 <br>
 <br>
-La moment, pentru experinta, lucrez la [acest site](https://millor-eight.vercel.app), unde fac totul singurel. Designul l-am laut de [aici](https://www.figma.com/file/eNqducvk6OQwmXoz7hVHQu/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D1%84%D0%B5?type=design&node-id=0%3A1&mode=design&t=vWGUa2ht35S95xyE-1). [GitHub](https://github.com/BCristin/millor)
+La moment, pentru experinta, lucrez la [acest site](https://millor-eight.vercel.app), unde fac totul singurel. Designul l-am laut de [aici](https://www.figma.com/file/eNqducvk6OQwmXoz7hVHQu/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BA%D0%BE%D1%84%D0%B5?type=design&node-id=0%3A1&mode=design&t=vWGUa2ht35S95xyE-1). [GitHub](https://github.com/BCristin/millor) *(Momentat nu am mai lucrat la el, învăț acum next.js si probabil am sa fac functionalul direct pe next.js, partea de HTML și CSS, versiunea pentru desktop e finisata.)*
 <br>
 <br>
 
@@ -37,6 +37,7 @@ Pe lângă cursurile enumerate mai sus au fost si altele, care nu au avut un imp
 - [Современный JavaScript + Vue с нуля на реальных проектах](https://www.udemy.com/course/modern-javascript-from-beginning/)
 - [Maratonul Gratuit GoIT](https://m.goit.global/ro/)
 - [Верстка и создание веб сайтов 2022 - с нуля до результата !](https://www.udemy.com/course/dmitrii-fokeev-web-dev-essential/) am facut un site [aici ](https://bcristin.github.io/Fokeev_2/src/)
+- [Next.js 14 - с нуля, React TypeScript, Hooks, SSR и CSS Grid](https://purpleschool.ru/course/nextjs)  [aici ](https://github.com/BCristin/top-app)
 - si altele.
 
 De asemenea am vizionat multe sute de filmulețe pe youtube care m-au ajuta să înțeleg mai bine unele teme.
